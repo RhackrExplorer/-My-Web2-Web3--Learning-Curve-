@@ -1,0 +1,107 @@
+          ```Web-BugBounty```
+
+```Primary Focus:```
+#Information Disclosure:-
+ https://portswigger.net/web-security/information-disclosure
+
+#Authentication:-
+ https://portswigger.net/web-security/authentication
+
+#OAuth 2.0 authentication vulnerabilities:-
+ https://portswigger.net/web-security/oauth
+
+#Access Control:-
+ https://portswigger.net/web-security/access-control
+
+#Business logic vulnerabilities:-
+ https://portswigger.net/web-security/logic-flaws
+------------------------------------------------------
+
+```Secondary Focus:```
+#API-Testing:-
+ https://portswigger.net/web-security/api-testing
+
+#JWT Attacks:-
+ https://portswigger.net/web-security/jwt
+
+#Web LLM Attacks:-
+ https://portswigger.net/web-security/llm-attacks
+
+#Sqli:-
+ https://portswigger.net/web-security/sql-injection
+
+#SSRF:-
+ https://portswigger.net/web-security/ssrf
+
+#SSTi:-
+ https://portswigger.net/web-security/server-side-template-injection
+---------------------------------------------
+
+```Essential-skills:- https://portswigger.net/web-security/essential-skills```
+
+---------------------------------------------
+
+```Hacktivity:```
+#IDOR:-
+  https://hackerone.com/hacktivity/overview?queryString=%22IDOR%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+#Access Control:-
+  https://hackerone.com/hacktivity/overview?queryString=%22Access+Control%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+#Information Disclosure:-
+  https://hackerone.com/hacktivity/overview?queryString=Information+Disclosure+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+#Authentication:-
+  https://hackerone.com/hacktivity/overview?queryString=Improper+authentication+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+ #OAuth 2.0 authentication vulnerabilities:-
+
+#Business logic vulnerabilities:-
+  https://hackerone.com/hacktivity/overview?queryString=%22Business+Logic%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+#More Resources:-
+---------------
+
+```Hacktivities```
+				
+*Open Redirect:--> 367
+https://hackerone.com/hacktivity/overview?queryString=%22Open+Redirect%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+*Access Control/BAC:--> 734
+https://hackerone.com/hacktivity/overview?queryString=%22Access+Control%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+*XSS:--> 2253
+https://hackerone.com/hacktivity/overview?queryString=%22XSS%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+*IDOR:--> 348
+https://hackerone.com/hacktivity/overview?queryString=%22IDOR%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+*SQLi:--> 244
+https://hackerone.com/hacktivity/overview?queryString=%22SQL+Injection%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+*Business Logic Bugs:--> 340
+https://hackerone.com/hacktivity/overview?queryString=%22Business+Logic%22+AND+disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+--------------------------------------------------
+
+
+```Articles```
+
+*Open Redirect:--> https://medium.com/@RsHack3r/list/open-redirect-250c71c97e85
+
+
+*Access Control/BAC/IDOR:--> https://medium.com/@RsHack3r/list/idor-access-control-897834d2c88a
+
+
+*XSS:--> https://medium.com/@RsHack3r/list/xss-78c87dbdd96e
+
+
+*SQLi:--> https://medium.com/@RsHack3r/list/sqli-8c1fc33b22ea
+
+
+*Business Logic Bugs:--> https://medium.com/@RsHack3r/list/business-logic-bugs-6832c2e8235b
