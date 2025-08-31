@@ -1,42 +1,70 @@
-```Youtube Tutorials```
-@0xOwenThurm youtube courses:-
+						//Web3 & Smart Contract Security//
+
+#1 JavaScript:				                (Target:- 20 days)
+--------------
+By KG Coding Youtube (https://youtu.be/cpoXLj24BDY?si=BtXulu1jKomBwNoi) 
+
+#2 Cyfrin updraft:                    (Target:- 90 days)
+------------------
+1. BlockChain Basics:- https://updraft.cyfrin.io/courses/blockchain-basics
+2. Solidity Smart Contract Development:- https://updraft.cyfrin.io/courses/solidity
+3. Foundry Fundamentals:- https://updraft.cyfrin.io/courses/foundry
+4. Foundry Advance:- https://updraft.cyfrin.io/courses/advanced-foundry
+5. Smart Contract Security:- https://updraft.cyfrin.io/courses/security      (Final Course for web3 Security Auditing)
+6. Web3 Wallet Security:- https://updraft.cyfrin.io/courses/web3-wallet-security-basics
+
+
+#3 0xOwenThurm youtube courses:          (Side-by-side learn with cyfrin Course)
+-------------------------------
 1. Advance Web3 Security course | Part-1: https://youtu.be/DRZogmD647U?si=n3LGf_vZQCPvWaPp
 2. Advance Web3 Security course | Part-2: https://youtu.be/zLnxRvf6IMA?si=6z9oMIYOomkZkKli
 3. Follow this channel for best resources in web3 security: https://www.youtube.com/@0xOwenThurm/featured
-4. Solidity lab: https://lab.guardianaudits.com/
 
-@patrick collins courses:- 
-1. Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI:
-part-1: https://youtu.be/umepbfKp5rI?si=Xu1bwxQRQS4PBvWr
-part-2: https://youtu.be/sas02qSFZ74?si=Rvh8BSV5uUt2QPk8
-part-3: https://youtu.be/wUjYK5gwNZs?si=_Zva9jHaJx_NxAM5
-2. Learn Solidity Smart Contract Development|Full 2024 Cyfrin Updraft Course: https://youtu.be/-1GB6m39-rM?si=6qdjNKYdQ0mc1RKJ
------------------------------------------------------------------------------------------------------
 
-```cyfrin updraft```
-1st: BlockChain Basics:- https://updraft.cyfrin.io/courses/blockchain-basics
-2nd: Solidity Smart Contract Development:- https://updraft.cyfrin.io/courses/solidity
-3rd: Foundry Fundamentals:- https://updraft.cyfrin.io/courses/foundry
-4th: Foundry Advance:- https://updraft.cyfrin.io/courses/advanced-foundry
-Final: Smart Contract Security:- https://updraft.cyfrin.io/courses/security  (Final Course for web3 Security Auditing)
---------------------------------------------------------------------------------------------------------
+#4 Smart Contract Hacking: 			           (Target:- 90 days after Cyfrin Courses)
+--------------------------
+by Johny Time SCH Course (According to your Budget other options available)
 
-```CTF Challanges```
+# Solve CTF Challanges:                  (Optional But Very useful)
+-----------------------
 1. Play, Learn, Build Blockchain:- https://cryptozombies.io
 2. Ethernaut openzepplin:- https://ethernaut.openzeppelin.com
 3. Damnvulnerabledefi:- https://www.damnvulnerabledefi.xyz (Little bit advance)
---------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
-```Blog posts & Writups```
-1. Immunefi:- https://immunefi.com/learn
-2. Immunefi:- https://immunefi.com/immunefi-top-10/
-3. Immunefi:- https://immunefi.com/blog/security-guides/
-4. Immunefi:- https://immunefi.com/blog/
----------------------------------------------------------------------------------------------------------
 
-```Auditing contests```
-1. Code4rena:- https://code4rena.com/
+#5 Read Past Audit Reports:		               	(Read and start Participating Audit contests side-by-side)
+---------------------------
+1. Cyfrin Code Hawk
+2. Code4rena
+3. Sherlock
+4. Cantina
+5. Immunefi etc.
+
+# Some Audit Reports:
+---------------------
+1. https://github.com/pashov/audits?tab=readme-ov-file				
+2. https://audits.sherlock.xyz/watson/Bluedragon?s=35
+3. https://github.com/x15-eth/audits
+4. https://audits.sherlock.xyz/watson/0x73696d616f
+5. https://github.com/sayan011/Immunefi-bug-bounty-writeups-list?tab=readme-ov-file
+6. https://notes.ethereum.org/@fredrik/fusaka-auditor-guide#Fusaka-Auditor-Handbook
+7. https://audits.sherlock.xyz/watson/zarkk01
+8. https://solodit.cyfrin.io/?i=HIGH%2CMEDIUM%2CLOW%2CGAS&maxf=&minf=&rf=alltime&sd=Desc&sf=Recency
+
+
+## Participate in Auditing contests:
+------------------------------------
+1. https://hackenproof.com/programs 
 2. Cantina:- https://cantina.xyz/welcome
 3. Immunefi:- https://immunefi.com/bug-bounty-program/ (Biggest platform)
+4. Code4rena:- https://code4rena.com/
+5. https://audits.sherlock.xyz/contests?filter=all
+
+
+
+				                    	//Keep Learning And Keep Earning//ThankYou//
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
